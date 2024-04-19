@@ -3,6 +3,12 @@
 <p align="center">
   <img width="140" src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble@main/Image/Avatar.jpg" />  
   <h2 align="center">Rock</h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Csharp-192133?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Unity-192133?style=flat-square&logo=unity&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white" />
+  </p>
   <p align="center"> :heartbeat:努力提升自己:heartbeat:</p>
 </p>
 <picture>
@@ -19,13 +25,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AzureBubble&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzureBubble&langs_count=8&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzureBubble&langs_count=8&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=300" />
 </a>
-
-----
-
-# 技术栈
-![C#](https://img.shields.io/badge/-Csharp-192133?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-192133?style=flat-square&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
