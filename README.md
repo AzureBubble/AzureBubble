@@ -1,9 +1,10 @@
 <h1 align="center"> 
     <a href="https://azurebubble.github.io/"> 
-    	<img src="https://readme-typing-svg.herokuapp.com/?lines=DDebug.Log(%22Hello%2C%20World!%22);祝您今天愉快呀!&center=true&size=27"> 
+    	<img src="https://readme-typing-svg.herokuapp.com/?lines=DDebug.Log(%22Hello%2C%20World!%22);Hope you have a nice day!&center=true&size=27"> 
         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+🎉+I+am+Rock+Welcome+to+My+Profile!">
     </a> 
 </h1>
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
