@@ -26,10 +26,9 @@
 
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://azurebubble.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AzureBubble&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://azurebubble.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzureBubble&langs_count=8&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=300" />
 </a>
