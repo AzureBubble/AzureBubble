@@ -3,6 +3,7 @@
 <p align="center">
   <img width="140" src="https://cdn.jsdelivr.net/gh/AzureBubble/PicBed@main/img/HeadImage.jpg" />  
   <h2 align="center">Rock
+      <b>
 	<p align="center">
     	<img src="https://img.shields.io/badge/-Csharp-192133?style=flat-square&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -11,6 +12,7 @@
   	</p>
 </h2>
 </p>
+
 
 
 
