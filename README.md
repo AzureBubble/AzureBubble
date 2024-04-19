@@ -27,14 +27,9 @@
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 ![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus)
 
-
-
 ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="150"/>
-
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 🔧 &nbsp;
@@ -43,7 +38,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
 
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="150"/>
 
+ &nbsp;  &nbsp; 👋 目前正在整合一个自己的简易版游戏开发框架，欢迎各位大佬一起交流探讨学习，指正错误。
 
 # ✨My Status
 
