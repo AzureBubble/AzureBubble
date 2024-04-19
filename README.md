@@ -22,6 +22,8 @@
 
 ---
 
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="150"/>
+
 🌐 &nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=Csharp)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
@@ -31,8 +33,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="150"/>
 
 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=31A8FF)
