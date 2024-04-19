@@ -2,15 +2,18 @@
 
 <p align="center">
   <img width="140" src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble@main/Image/Avatar.jpg" />  
-  <h2 align="center">Rock</h2>
-  <p align="center">
-    <img src="https://img.shields.io/badge/-Csharp-192133?style=flat-square&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Unity-192133?style=flat-square&logo=unity&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white" />
-  </p>
-  <p align="center"> :heartbeat:努力提升自己:heartbeat:</p>
+  <h2 align="center">Rock
+	<p align="center">
+    	<img src="https://img.shields.io/badge/-Csharp-192133?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white" />
+      	<img src="https://img.shields.io/badge/-Unity-192133?style=flat-square&logo=unity&logoColor=white" />
+     	<img src="https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white" />
+  	</p>
+</h2>
 </p>
+
+
+  <p align="center"> :heartbeat:努力提升自己:heartbeat:</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzureBubble/AzureBubble/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzureBubble/AzureBubble/output/github-contribution-grid-snake.svg">
