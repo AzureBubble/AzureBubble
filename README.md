@@ -1,7 +1,6 @@
 <h1 align="center"> 
     <a href="https://azurebubble.github.io/"> 
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&size=27&lines=Debug.Log(%22Hello%2C%20World!%22);Hope you have a nice day!">
-    	<img src="https://readme-typing-svg.herokuapp.com/?lines=D&center=true"> 
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&size=27&lines= Debug.Log(%22Hello%2C%20World!%22);Hope you have a nice day!">
         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+🎉+I+am+Rock+Welcome+to+My+Profile!">
     </a> 
 </h1>
