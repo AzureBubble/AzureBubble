@@ -73,7 +73,7 @@
 ### Top Repositories
 
 <a href="https://github.com/AzureBubble/QZGameFramework">
-
 <div  align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureBubble&repo=QZGameFramework&theme=buefy">
 </div>
+</a>
