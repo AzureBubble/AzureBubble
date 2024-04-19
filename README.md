@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+🎉+I+am+Rock+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+<h1 align="center"> 
+    <a href="https://azurebubble.github.io/"> 
+    	<img src="https://readme-typing-svg.herokuapp.com/?lines=Debug.Log(%22Hello%2C%20World!%22);祝您今天愉快呀!&center=true&size=27"> 
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+🎉+I+am+Rock+Welcome+to+My+Profile!">
+    </a> 
+</h1>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <p align="center">
   <img width="140" src="https://cdn.jsdelivr.net/gh/AzureBubble/PicBed@main/img/HeadImage.jpg" />  
@@ -27,8 +34,11 @@
 
 
 <a href="https://azurebubble.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AzureBubble&count_private=true&show_icons=true" />
+
+<div align="center"> 
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AzureBubble&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzureBubble&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
 </a>
-<a href="https://azurebubble.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzureBubble&langs_count=8&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=300" />
-</a>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AzureBubble&theme=react-dark&hide_border=true&area=true)
