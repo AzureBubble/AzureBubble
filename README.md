@@ -19,7 +19,7 @@
 
 - 🎡 &nbsp; 梦想是做出一款爆款的独立游戏
 
-- 🔱 &nbsp; 游戏和XR爱好者
+- 🔱 &nbsp; 游戏和XR狂热爱好者
 
   
 
@@ -41,28 +41,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
 
-<p align="center">
-  <img width="140" src="https://cdn.jsdelivr.net/gh/AzureBubble/PicBed@main/img/HeadImage.jpg" />  
-  <h2 align="center">Rock
-      <b>
-	<p align="center">
-    	<img src="https://img.shields.io/badge/-Csharp-192133?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white" />
-      	<img src="https://img.shields.io/badge/-Unity-192133?style=flat-square&logo=unity&logoColor=white" />
-     	<img src="https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white" />
-  	</p>
-</h2>
-</p>
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="150"/>
 
+# ✨My Status
 
-
-
-  <p align="center"> :heartbeat:努力提升自己:heartbeat:</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzureBubble/AzureBubble/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzureBubble/AzureBubble/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
