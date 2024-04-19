@@ -17,12 +17,21 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
+🌐 &nbsp;
+![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=Csharp)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus)
+
 ⚙️ &nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-🔧 
-
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea&logoColor=31A8FF)
+🔧 &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=31A8FF)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea&logoColor=31A8FF)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
 
 <p align="center">
   <img width="140" src="https://cdn.jsdelivr.net/gh/AzureBubble/PicBed@main/img/HeadImage.jpg" />  
