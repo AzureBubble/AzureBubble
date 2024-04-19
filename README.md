@@ -69,3 +69,11 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AzureBubble&theme=react-dark&hide_border=true&area=true)
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+
+#### Top Repositories
+
+<a href="https://github.com/AzureBubble/QZGameFramework">
+
+<div  align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureBubble&repo=QZGameFramework&theme=buefy">
+</div>
