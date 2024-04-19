@@ -3,7 +3,7 @@
 <p align="center">
   <img width="140" src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble@main/Image/Avatar.jpg" />  
   <h2 align="center">Rock</h2>
-  <p align="center"> :kissing_heart:努力提升自己:kissing_heart:</p>
+  <p align="center"> :heartbeat:努力提升自己:heartbeat:</p>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzureBubble/AzureBubble/output/github-contribution-grid-snake-dark.svg">
