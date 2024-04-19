@@ -27,11 +27,15 @@
 ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=Csharp)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 ![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus)
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)
+![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
 
 ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=hexo)
 
 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=31A8FF)
