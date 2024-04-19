@@ -1,6 +1,6 @@
 <h1 align="center"> 
     <a href="https://azurebubble.github.io/"> 
-    	<img src="https://readme-typing-svg.herokuapp.com/?lines=Debug.Log(%22Hello%2C%20World!%22);祝您今天愉快呀!&center=true&size=27"> 
+    	<img src="https://readme-typing-svg.herokuapp.com/?lines= Debug.Log(%22Hello%2C%20World!%22);祝您今天愉快呀!&center=true&size=27"> 
         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+🎉+I+am+Rock+Welcome+to+My+Profile!">
     </a> 
 </h1>
@@ -64,3 +64,5 @@
 </a>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AzureBubble&theme=react-dark&hide_border=true&area=true)
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
