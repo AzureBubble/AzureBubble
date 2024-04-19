@@ -40,6 +40,16 @@
 
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="150"/>
 
+
+
+
+
+
+
+
+
+
+
 # ✨My Status
 
 <picture>
