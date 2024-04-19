@@ -7,10 +7,27 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+<h3> 👨🏻‍💻 About Me </h3>
+
+- :shipit: &nbsp; Unity游戏开发者
+- 🎓 &nbsp; 正在努力学习游戏开发的前后端知识
+- 🚀 &nbsp; 努力提升自我编码素养和游戏开发能力
+- ✍️ &nbsp; 目标是成为一名全栈的游戏开发工程师
+- 🎡 &nbsp; 梦想是做出一款爆款的独立游戏
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+⚙️ &nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+🔧 
+
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea&logoColor=31A8FF)
+
 <p align="center">
   <img width="140" src="https://cdn.jsdelivr.net/gh/AzureBubble/PicBed@main/img/HeadImage.jpg" />  
   <h2 align="center">Rock
-      <b></b>
+      <b>
 	<p align="center">
     	<img src="https://img.shields.io/badge/-Csharp-192133?style=flat-square&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white" />
