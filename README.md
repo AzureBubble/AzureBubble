@@ -14,6 +14,7 @@
 
 
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AzureBubble&count_private=true&show_icons=true" />
 </a>
@@ -25,6 +26,6 @@
 
 # 技术栈
 ![C#](https://img.shields.io/badge/-Csharp-192133?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-192133?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
