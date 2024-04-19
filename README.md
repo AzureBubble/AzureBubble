@@ -40,7 +40,7 @@
 
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="150"/>
 
- &nbsp;  &nbsp; 👋 目前正在整合一个自己的简易版游戏开发框架，欢迎各位大佬一起交流探讨学习，指正错误。
+ &nbsp;  &nbsp; 
 
  &nbsp;  &nbsp; 
 
