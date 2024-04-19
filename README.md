@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+🎉+I+am+Rock+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="140" src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble@main/Image/Avatar.jpg" />  
+  <img width="140" src="https://cdn.jsdelivr.net/gh/AzureBubble/PicBed@main/img/HeadImage.jpg" />  
   <h2 align="center">Rock
 	<p align="center">
     	<img src="https://img.shields.io/badge/-Csharp-192133?style=flat-square&logo=csharp&logoColor=white" />
@@ -11,6 +11,7 @@
   	</p>
 </h2>
 </p>
+
 
 
   <p align="center"> :heartbeat:努力提升自己:heartbeat:</p>
