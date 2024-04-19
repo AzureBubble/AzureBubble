@@ -29,7 +29,7 @@
 ![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)
 ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json)
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
+<!--![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)-->
 
 ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
