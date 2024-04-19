@@ -9,21 +9,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+---
+
 - :shipit: &nbsp; Unity游戏开发者
-
+- 🔱 &nbsp; 游戏和XR狂热爱好者
 - 🎓 &nbsp; 正在努力学习游戏开发的前后端知识
-
 - 🚀 &nbsp; 努力提升自我编码素养和游戏开发能力
-
 - ✍️ &nbsp; 目标是成为一名全栈的游戏开发工程师
-
 - 🎡 &nbsp; 梦想是做出一款爆款的独立游戏
 
-- 🔱 &nbsp; 游戏和XR狂热爱好者
-
-  
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+---
 
 🌐 &nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=Csharp)
