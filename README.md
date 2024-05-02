@@ -32,16 +32,16 @@
 <!--![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)-->
 
 ⚙️ &nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=hexo)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&logoColor=000000)
+![Hexo](https://img.shields.io/badge/-Hexo-333333?style=flat&logo=hexo&logoColor=0E83CD)
 
 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=31A8FF)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea&logoColor=31A8FF)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
+![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware&logoColor=607078)
 
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="150"/>
 
