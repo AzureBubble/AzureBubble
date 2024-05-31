@@ -75,7 +75,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/icon.png" />
 
-<h3> &nbsp;Top Repositories</h3>
+<h3 style="float: left;"> &nbsp;Top Repositories</h3>
 
 ---
 
