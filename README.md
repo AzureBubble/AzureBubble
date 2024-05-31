@@ -43,7 +43,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware&logoColor=607078)
 
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="150"/>
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/duck.gif" width="150"/>
 
  &nbsp;  &nbsp; 
 
@@ -73,11 +73,12 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AzureBubble&theme=react-dark&hide_border=true&area=true)
 
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+<img src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/icon.png" />
 
 ### Top Repositories
 
 <a href="https://github.com/AzureBubble/QZGameFramework">
+
 <div  align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureBubble&repo=QZGameFramework&theme=buefy">
 </div>
