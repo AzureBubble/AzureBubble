@@ -81,7 +81,7 @@
 
 <a href="https://github.com/AzureBubble/QZGameFramework">
 
-<div  align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureBubble&repo=QZGameFramework&theme=buefy">
 </div>
 </a>
