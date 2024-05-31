@@ -6,7 +6,7 @@
 </h1>
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/1.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
