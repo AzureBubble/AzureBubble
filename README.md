@@ -77,12 +77,13 @@
 
 <h3 style="float: left;"> &nbsp;Top Repositories</h3>
 
----
 
-<a href="https://github.com/AzureBubble/QZGameFramework">
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureBubble&repo=QZGameFramework&theme=buefy">
+<div  align="center">
+  <a href="https://github.com/AzureBubble/QZGameFramework">
+  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureBubble&repo=QZGameFramework&theme=buefy">
+  </a>
 </div>
-</a>
+
+
 
