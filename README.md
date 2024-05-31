@@ -73,7 +73,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AzureBubble&theme=react-dark&hide_border=true&area=true)
 
-<img src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/icon.png" />
+
 
 <h3> &nbsp;Top Repositories</h3>
 
@@ -82,4 +82,7 @@
 <div  align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureBubble&repo=QZGameFramework&theme=buefy">
 </div>
+
 </a>
+
+<img src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/icon.png" />
