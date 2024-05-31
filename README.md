@@ -6,7 +6,7 @@
 </h1>
 
 
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/gif2.gif" width="400"/>
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/gif2.gif" width="380"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
