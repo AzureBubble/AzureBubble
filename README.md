@@ -26,6 +26,7 @@
 🌐 &nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=Csharp&logoColor=512BD4)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
+![HybridCLR](https://badgen.net/badge/HybridCLR/热更新/red)
 ![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus&logoColor=00599C)
 ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json&logoColor=000000)
 <!--![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)-->
