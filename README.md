@@ -27,7 +27,6 @@
 ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=Csharp&logoColor=512BD4)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/-C%20++-333333?style=flat&logo=Cplusplus&logoColor=00599C)
-![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=2C2D72)
 ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json&logoColor=000000)
 <!--![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)-->
 
