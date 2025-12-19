@@ -70,7 +70,7 @@
 <h3 style="float: left;"> &nbsp;Top Repositories</h3>
 
 <div  align="center">
-  <a href="https://github.com/AzureBubble/QZGameFramework">
-  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureBubble&repo=QZGameFramework&theme=buefy">
+  <a href="https://github.com/AzureBubble/DGame">
+  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureBubble&repo=DGame&theme=buefy">
   </a>
 </div>
